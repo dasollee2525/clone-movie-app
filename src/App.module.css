@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+input {
+    display: block;
+    margin: 0 auto 50px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 6px;
+    border-style: solid;
+    height: 30px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+div {
+    margin: 200px auto;
+}
+
+select {
+    font-size: 20px;
+    border-radius: 6px;
+    border-style: solid;
+    height: 40px;
+}
