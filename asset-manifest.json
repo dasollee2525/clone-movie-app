@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dasollee2525/clone-movie-app/static/css/main.076cc453.css",
-    "main.js": "/dasollee2525/clone-movie-app/static/js/main.94bb4944.js",
-    "index.html": "/dasollee2525/clone-movie-app/index.html",
-    "main.076cc453.css.map": "/dasollee2525/clone-movie-app/static/css/main.076cc453.css.map",
-    "main.94bb4944.js.map": "/dasollee2525/clone-movie-app/static/js/main.94bb4944.js.map"
+    "main.css": "/clone-movie-app/static/css/main.076cc453.css",
+    "main.js": "/clone-movie-app/static/js/main.49956e89.js",
+    "index.html": "/clone-movie-app/index.html",
+    "main.076cc453.css.map": "/clone-movie-app/static/css/main.076cc453.css.map",
+    "main.49956e89.js.map": "/clone-movie-app/static/js/main.49956e89.js.map"
   },
   "entrypoints": [
     "static/css/main.076cc453.css",
-    "static/js/main.94bb4944.js"
+    "static/js/main.49956e89.js"
   ]
 }
