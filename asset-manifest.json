@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clone-movie-app/static/css/main.076cc453.css",
-    "main.js": "/clone-movie-app/static/js/main.49956e89.js",
+    "main.js": "/clone-movie-app/static/js/main.721abdb4.js",
     "index.html": "/clone-movie-app/index.html",
     "main.076cc453.css.map": "/clone-movie-app/static/css/main.076cc453.css.map",
-    "main.49956e89.js.map": "/clone-movie-app/static/js/main.49956e89.js.map"
+    "main.721abdb4.js.map": "/clone-movie-app/static/js/main.721abdb4.js.map"
   },
   "entrypoints": [
     "static/css/main.076cc453.css",
-    "static/js/main.49956e89.js"
+    "static/js/main.721abdb4.js"
   ]
 }
