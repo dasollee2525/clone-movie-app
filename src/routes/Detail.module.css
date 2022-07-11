@@ -1,0 +1,21 @@
+.container {
+    margin: 100px 400px;
+}
+
+.image {
+    float: left;
+    margin-right: 100px;
+}
+
+.contents *{
+    margin: 30px;
+}
+
+.title {
+    font-size: 70px;
+    margin-bottom: 100px;
+}
+
+.description_title {
+    margin-bottom: 0;
+}
